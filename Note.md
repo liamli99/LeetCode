@@ -235,6 +235,7 @@ Remaining Problems:
 
 
 Remaining problems: 23, 146
+Difficult Problems: 143
 
 
 
