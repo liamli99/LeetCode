@@ -241,14 +241,6 @@ Difficult Problems: 143
 
 
 ## Tree
-- DFS
-  - 遍历
-    - 144 Binary Tree Preorder Traversal
-    - 145 Binary Tree Postorder Traversal
-    - 94 Binary Tree Inorder Traversal
-    - 226 Invert Binary Tree
-
-
 - BFS
   - 102 Binary Tree Level Order Traversal
   - 107 Binary Tree Level Order Traversal II
@@ -256,21 +248,27 @@ Difficult Problems: 143
   - 103 Binary Tree Zigzag Level Order Traversal
   - 199 Binary Tree Right Side View
   - 513 Find Bottom Left Tree Value
-  - 662 Maximum Width of Binary Tree
-  - 958 Check Completeness of a Binary Tree
-  - 637 Average of Levels in Binary Tree
   - 515 Find Largest Value in Each Tree Row
+  - 637 Average of Levels in Binary Tree
   - 1161 Maximum Level Sum of a Binary Tree
   - 116 Populating Next Right Pointers in Each Node
   - 117 Populating Next Right Pointers in Each Node II
+  - 662 Maximum Width of Binary Tree
+  - 958 Check Completeness of a Binary Tree
   - 104 Maximum Depth of Binary Tree
   - 559 Maximum Depth of N-ary Tree
-  - 111 Minimum Depth of Binary Tree
+  - 111 Minimum Depth of Binary Tree (iteration ?)
 
-100, 101, 105, 106, 110, 112, 113, 124, 129, 222, 236, 257, 297, 404, 543, 572, 617, 654, 951, 1448
+- DFS
+  - 遍历
+    - 144 Binary Tree Preorder Traversal
+    - 145 Binary Tree Postorder Traversal
+    - 94 Binary Tree Inorder Traversal
+    - 226 Invert Binary Tree
 
+- Difficult Problems: 
 
-
+- Remaining Problems: 100, 101, 105, 106, 110, 112, 113, 124, 129, 222, 236, 257, 297, 404, 543, 572, 617, 654, 951, 1448
 
 
 
@@ -279,8 +277,9 @@ Difficult Problems: 143
 
 - 回溯法的本质是穷举；由于回溯法是在递归地搜索所有符合要求的解，因此回溯解决的问题都可以抽象成树形结构：递归的深度就是树的深度！回溯法的搜索过程就是树形结构的DFS过程：用for循环横向遍历当前层的所有选择，用递归纵向遍历进入下一层！！！为了让其效率高一点，可以增加剪枝(pruning)的操作！
 
-- 时间复杂度：递归次数 (树的节点数) * 每次递归的时间复杂度
-- 空间复杂度：递归深度 (树的深度) * 每次递归的空间复杂度
+- Recursion function的时间和空间复杂度
+  - 时间复杂度：递归次数 (树的节点数) * 每次递归的时间复杂度，在backtracking中递归次数可以看作所有结果的数量
+  - 空间复杂度：递归深度 (树的深度) * 每次递归的空间复杂度，在backtracking中递归深度可以看作每个结果的长度
 
 - 模版
   ```python
