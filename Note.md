@@ -337,15 +337,15 @@ Difficult Problems: 143
   - 96 Unique Binary Search Trees
 
 - 2D DP
+  - 62 Unique Paths
+  - 63 Unique Paths II
+  
   - 121 Best Time to Buy and Sell Stock
   - 123 Best Time to Buy and Sell Stock III
   - 188 Best Time to Buy and Sell Stock IV
   - 122 Best Time to Buy and Sell Stock II
   - 714 Best Time to Buy and Sell Stock with Transaction Fee
   - 309 Best Time to Buy and Sell Stock with Cooldown
-  
-  - 62 Unique Paths
-  - 63 Unique Paths II
   
   - 416 Partition Equal Subset Sum
   - 1049 Last Stone Weight II
