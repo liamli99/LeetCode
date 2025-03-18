@@ -352,6 +352,7 @@ Difficult Problems: 143
   - 474 Ones and Zeros
   - 494 Target Sum
   - 518 Coin Change II
+  - 377 Combination Sum IV
 
 Remaining problems: 5, 647 (5和647也可以用中心拓展算法(马拉车)来做，也属于双指针！), 337 
 
