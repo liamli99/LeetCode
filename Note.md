@@ -335,10 +335,17 @@ Difficult Problems: 143
   - 213 House Robber II
   
   - 96 Unique Binary Search Trees
+  - 139 Word Break
+  
+  - 674 Longest Continuous Increasing Subsequence
+  - 300 Longest Increasing Subsequence
 
 - 2D DP
   - 62 Unique Paths
   - 63 Unique Paths II
+  
+  - 718 Maximum Length of Repeated Subarray
+  - 
   
   - 121 Best Time to Buy and Sell Stock
   - 123 Best Time to Buy and Sell Stock III
@@ -353,8 +360,11 @@ Difficult Problems: 143
   - 494 Target Sum
   - 518 Coin Change II
   - 377 Combination Sum IV
+  - 322 Coin Change
+  - 279 Perfect Squares
+  
 
-Remaining problems: 5, 647 (5和647也可以用中心拓展算法(马拉车)来做，也属于双指针！), 337 
+Remaining problems: 5, 647 (5和647也可以用中心拓展算法(马拉车)来做，也属于双指针！), 337, 139
 
 
 
