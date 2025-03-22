@@ -225,6 +225,8 @@ Remaining Problems:
     - 24 Swap Nodes in Pairs
     - 25 Reverse Nodes in k-Group
     - 328 Odd Even Linked List
+    
+    - 138 Copy List With Random Pointer
 
 - Doubly Linked List
   - 1472 Design Browser History
@@ -238,37 +240,6 @@ Remaining problems: 23, 146
 Difficult Problems: 143
 
 
-
-
-## Tree
-- BFS
-  - 102 Binary Tree Level Order Traversal
-  - 107 Binary Tree Level Order Traversal II
-  - 429 N-ary Tree Level Order Traversal
-  - 103 Binary Tree Zigzag Level Order Traversal
-  - 199 Binary Tree Right Side View
-  - 513 Find Bottom Left Tree Value
-  - 515 Find Largest Value in Each Tree Row
-  - 637 Average of Levels in Binary Tree
-  - 1161 Maximum Level Sum of a Binary Tree
-  - 116 Populating Next Right Pointers in Each Node
-  - 117 Populating Next Right Pointers in Each Node II
-  - 662 Maximum Width of Binary Tree
-  - 958 Check Completeness of a Binary Tree
-  - 104 Maximum Depth of Binary Tree
-  - 559 Maximum Depth of N-ary Tree
-  - 111 Minimum Depth of Binary Tree (iteration ?)
-
-- DFS
-  - 遍历
-    - 144 Binary Tree Preorder Traversal
-    - 145 Binary Tree Postorder Traversal
-    - 94 Binary Tree Inorder Traversal
-    - 226 Invert Binary Tree
-
-- Difficult Problems: 
-
-- Remaining Problems: 100, 101, 105, 106, 110, 112, 113, 124, 129, 222, 236, 257, 297, 404, 543, 572, 617, 654, 951, 1448
 
 
 
@@ -312,6 +283,36 @@ Difficult Problems: 143
 - 迷宫
 
 
+
+## Tree
+- BFS
+  - 102 Binary Tree Level Order Traversal
+  - 107 Binary Tree Level Order Traversal II
+  - 429 N-ary Tree Level Order Traversal
+  - 103 Binary Tree Zigzag Level Order Traversal
+  - 199 Binary Tree Right Side View
+  - 513 Find Bottom Left Tree Value
+  - 515 Find Largest Value in Each Tree Row
+  - 637 Average of Levels in Binary Tree
+  - 1161 Maximum Level Sum of a Binary Tree
+  - 116 Populating Next Right Pointers in Each Node
+  - 117 Populating Next Right Pointers in Each Node II
+  - 662 Maximum Width of Binary Tree
+  - 958 Check Completeness of a Binary Tree
+  - 104 Maximum Depth of Binary Tree
+  - 559 Maximum Depth of N-ary Tree
+  - 111 Minimum Depth of Binary Tree (iteration ?)
+
+- DFS
+  - 遍历
+    - 144 Binary Tree Preorder Traversal
+    - 145 Binary Tree Postorder Traversal
+    - 94 Binary Tree Inorder Traversal
+    - 226 Invert Binary Tree
+
+- Difficult Problems: 
+
+- Remaining Problems: 100, 101, 105, 106, 110, 112, 113, 124, 129, 222, 236, 257, 297, 404, 543, 572, 617, 654, 951, 1448
 
 
 
@@ -368,7 +369,8 @@ Remaining problems: 5, 647 (5和647也可以用中心拓展算法(马拉车)来�
 
 
 
-
+## Greedy
+- 贪心的本质是选择每一阶段的局部最优，从而达到全局最优。刷题或者面试的时候，手动模拟一下感觉可以局部最优推出整体最优，而且想不到反例，那么就试一试贪心。
 
 
 
