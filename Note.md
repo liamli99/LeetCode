@@ -3,6 +3,7 @@
   - [知乎高频题分类刷题](https://zhuanlan.zhihu.com/p/349940945)
   - [NeetCode](https://neetcode.io/practice)
   - [Grind75](https://www.techinterviewhandbook.org/grind75)
+  - [Hot100](https://leetcode.cn/problem-list/2cktkvj/)
 
 - 答案参考
   - 代码随想录
@@ -242,7 +243,6 @@ Difficult Problems: 143
 
 
 
-
 ## Backtracking
 - Backtracking is a specific kind of recursion where we recursively explore all possible solutions and **backtrack** when a solution is invalid.
 
@@ -254,7 +254,7 @@ Difficult Problems: 143
 
 - 模版
   ```python
-  def backtracking(参数):
+  def backtrack(参数):
     if 终止条件:
       存放结果
       return
