@@ -249,8 +249,8 @@ Difficult Problems: 143
 - 回溯法的本质是穷举；由于回溯法是在递归地搜索所有符合要求的解，因此回溯解决的问题都可以抽象成树形结构：递归的深度就是树的深度！回溯法的搜索过程就是树形结构的DFS过程：用for循环横向遍历当前层的所有选择，用递归纵向遍历进入下一层！！！为了让其效率高一点，可以增加剪枝(pruning)的操作！
 
 - Recursion function的时间和空间复杂度
-  - 时间复杂度：递归次数 (树的节点数) * 每次递归的时间复杂度，在backtracking中递归次数可以看作所有结果的数量
-  - 空间复杂度：递归深度 (树的深度) * 每次递归的空间复杂度，在backtracking中递归深度可以看作每个结果的长度
+  - 时间复杂度：递归次数 (树的节点数) * 每次递归的时间复杂度，在backtracking中递归次数可以看作**所有结果的数量**
+  - 空间复杂度：递归深度 (树的深度) * 每次递归的空间复杂度，在backtracking中递归深度可以看作**每个结果的长度**
 
 - 模版
   ```python
@@ -263,13 +263,14 @@ Difficult Problems: 143
     for 选择本层节点:
       处理节点
       # 纵向遍历：递归进入下一层
-      backtracking(参数)
+      backtrack(参数)
       回溯，撤销之前的处理
   ```
 
 - 组合：
   - 77 Combinations
   - 216 Combination Sum III
+  - 39 Combination Sum
   - 17 Letter Combinations of a Phone Number
 
 - 排列
