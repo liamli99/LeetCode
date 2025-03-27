@@ -271,13 +271,17 @@ Difficult Problems: 143
   - 77 Combinations
   - 216 Combination Sum III
   - 39 Combination Sum
+  - 40 Combination Sum II
   - 17 Letter Combinations of a Phone Number
 
 - 排列
+  - 46 Permutations
+  - 47 Permutations II
+
+- 子集
 
 - 切割：
 
-- 子集：：
 
 - 棋盘：
 
