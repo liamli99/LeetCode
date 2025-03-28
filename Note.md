@@ -279,11 +279,16 @@ Difficult Problems: 143
   - 47 Permutations II
 
 - 子集
+  - 78 Subsets
+  - 90 Subsets II
 
 - 切割：
-
+  - 131 Palindrome Partitioning
+  - 93 Restore IP Address
 
 - 棋盘：
+  - 51 N-Queens
+  - 52 N-Queens II
 
 - 迷宫
 
