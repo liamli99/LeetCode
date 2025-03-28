@@ -382,6 +382,11 @@ Remaining problems: 5, 647 (5和647也可以用中心拓展算法(马拉车)来�
 ## Greedy
 - 贪心的本质是选择每一阶段的局部最优，从而达到全局最优。刷题或者面试的时候，手动模拟一下感觉可以局部最优推出整体最优，而且想不到反例，那么就试一试贪心。
 
+- 55 Jump Game
+- 45 Jump Game II
+- 452 Minimum Number of Arrows to Burst Balloons
+- 435 Non-overlapping Intervals
+- 56 Merge Intervals
 
 
 回文系列的题目：
