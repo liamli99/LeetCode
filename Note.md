@@ -231,13 +231,14 @@ Remaining Problems:
 
 - Doubly Linked List
   - 1472 Design Browser History
+  - 146 LRU Cache
 
 - Circular Linked List
   - 141 Linked List Cycle
   - 142 Linked List Cycle II
 
 
-Remaining problems: 23, 146
+Remaining problems: 23
 Difficult Problems: 143
 
 
@@ -289,10 +290,11 @@ Difficult Problems: 143
 - 棋盘：
   - 51 N-Queens
   - 52 N-Queens II
+  - 37 Sudoku Solver
 
 - 迷宫
 
-
+- Remaining Problems: 79, 332, 491
 
 ## Tree
 - BFS
@@ -348,6 +350,7 @@ Difficult Problems: 143
   - 96 Unique Binary Search Trees
   - 139 Word Break
   
+  - 53 Maximum Subarray
   - 674 Longest Continuous Increasing Subsequence
   - 300 Longest Increasing Subsequence
 
