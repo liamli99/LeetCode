@@ -294,33 +294,34 @@ Difficult Problems: 143
 
 - 迷宫
 
-- Remaining Problems: 79, 332, 491
+- Remaining Problems: 37, 79, 332, 491
 
 ## Tree
-- BFS
-  - 102 Binary Tree Level Order Traversal
-  - 107 Binary Tree Level Order Traversal II
-  - 429 N-ary Tree Level Order Traversal
-  - 103 Binary Tree Zigzag Level Order Traversal
-  - 199 Binary Tree Right Side View
-  - 513 Find Bottom Left Tree Value
-  - 515 Find Largest Value in Each Tree Row
-  - 637 Average of Levels in Binary Tree
-  - 1161 Maximum Level Sum of a Binary Tree
-  - 116 Populating Next Right Pointers in Each Node
-  - 117 Populating Next Right Pointers in Each Node II
-  - 662 Maximum Width of Binary Tree
-  - 958 Check Completeness of a Binary Tree
-  - 104 Maximum Depth of Binary Tree
-  - 559 Maximum Depth of N-ary Tree
-  - 111 Minimum Depth of Binary Tree (iteration ?)
+- Binary Tree
+  - BFS
+    - 102 Binary Tree Level Order Traversal
+    - 107 Binary Tree Level Order Traversal II
+    - 429 N-ary Tree Level Order Traversal
+    - 103 Binary Tree Zigzag Level Order Traversal
+    - 199 Binary Tree Right Side View
+    - 513 Find Bottom Left Tree Value
+    - 515 Find Largest Value in Each Tree Row
+    - 637 Average of Levels in Binary Tree
+    - 1161 Maximum Level Sum of a Binary Tree
+    - 116 Populating Next Right Pointers in Each Node
+    - 117 Populating Next Right Pointers in Each Node II
+    - 662 Maximum Width of Binary Tree
+    - 958 Check Completeness of a Binary Tree
+    - 104 Maximum Depth of Binary Tree
+    - 559 Maximum Depth of N-ary Tree
+    - 111 Minimum Depth of Binary Tree (iteration ?)
 
-- DFS
-  - 遍历
-    - 144 Binary Tree Preorder Traversal
-    - 145 Binary Tree Postorder Traversal
-    - 94 Binary Tree Inorder Traversal
-    - 226 Invert Binary Tree
+  - DFS
+    - 遍历
+      - 144 Binary Tree Preorder Traversal
+      - 145 Binary Tree Postorder Traversal
+      - 94 Binary Tree Inorder Traversal
+      - 226 Invert Binary Tree
 
 - Difficult Problems: 
 
