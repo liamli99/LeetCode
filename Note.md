@@ -314,7 +314,7 @@ Difficult Problems: 143
     - 958 Check Completeness of a Binary Tree
     - 104 Maximum Depth of Binary Tree
     - 559 Maximum Depth of N-ary Tree
-    - 111 Minimum Depth of Binary Tree (iteration ?)
+    - 111 Minimum Depth of Binary Tree
 
   - DFS
     - 遍历
@@ -322,10 +322,12 @@ Difficult Problems: 143
       - 145 Binary Tree Postorder Traversal
       - 94 Binary Tree Inorder Traversal
       - 226 Invert Binary Tree
+      - 100 Same Tree
+      - 101 Symmetric Tree
 
 - Difficult Problems: 
 
-- Remaining Problems: 100, 101, 105, 106, 110, 112, 113, 124, 129, 222, 236, 257, 297, 404, 543, 572, 617, 654, 951, 1448
+- Remaining Problems: 105, 106, 110, 112, 113, 124, 129, 222, 236, 257, 297, 404, 543, 572, 617, 654, 951, 1448
 
 
 
