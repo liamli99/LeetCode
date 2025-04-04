@@ -321,13 +321,18 @@ Difficult Problems: 143
       - 144 Binary Tree Preorder Traversal
       - 145 Binary Tree Postorder Traversal
       - 94 Binary Tree Inorder Traversal
-      - 226 Invert Binary Tree
+      
       - 100 Same Tree
       - 101 Symmetric Tree
+      - 572 Subtree of Another Tree
+      - 951 Flip Equivalent Binary Tree
+      
+      - 226 Invert Binary Tree
+      - 222 Count Complete Tree Nodes
 
 - Difficult Problems: 
 
-- Remaining Problems: 105, 106, 110, 112, 113, 124, 129, 222, 236, 257, 297, 404, 543, 572, 617, 654, 951, 1448
+- Remaining Problems: 105, 106, 110, 112, 113, 124, 129, 236, 257, 297, 404, 543, 617, 654, 1448
 
 
 

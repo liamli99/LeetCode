@@ -405,7 +405,7 @@ delete object.property; // delete a property-value pair
 
 **JavaScript Object keys can be Strings and Symbols!!!**  
 
-Note that property value can be any data type, including another object and even function!   
+Note that property value can be any data type, including another object and even function! However, the property can only be symbol or string!!!     
 ```javascript
 const object = {
     // Nested Object (object inside object)
