@@ -312,9 +312,7 @@ Difficult Problems: 143
     - 117 Populating Next Right Pointers in Each Node II
     - 662 Maximum Width of Binary Tree
     - 958 Check Completeness of a Binary Tree
-    - 104 Maximum Depth of Binary Tree
-    - 559 Maximum Depth of N-ary Tree
-    - 111 Minimum Depth of Binary Tree
+    
 
   - DFS
     - 遍历
@@ -327,6 +325,10 @@ Difficult Problems: 143
       - 572 Subtree of Another Tree
       - 951 Flip Equivalent Binary Tree
       
+      - 104 Maximum Depth of Binary Tree
+      - 559 Maximum Depth of N-ary Tree
+      - 111 Minimum Depth of Binary Tree
+  
       - 226 Invert Binary Tree
       - 222 Count Complete Tree Nodes
 

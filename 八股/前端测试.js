@@ -1,1 +1,2 @@
-console.log(this === globalThis);
+const a = '\\\\\\'.replace(new RegExp('\\\\\\\\', 'gi'), '/')
+console.log(a)
