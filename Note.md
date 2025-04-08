@@ -8,6 +8,7 @@
 - 答案参考
   - 代码随想录
   - NeetCode
+  - 灵神
   - Grandyang
   - 中文版LeetCode官方解答
   - https://algo.itcharge.cn/
@@ -320,21 +321,30 @@ Difficult Problems: 143
       - 145 Binary Tree Postorder Traversal
       - 94 Binary Tree Inorder Traversal
       
+      - 226 Invert Binary Tree
+      - 222 Count Complete Tree Nodes
+      - 104 Maximum Depth of Binary Tree
+      - 559 Maximum Depth of N-ary Tree
+      - 111 Minimum Depth of Binary Tree
+
+      - 110 Balanced Binary Tree
+      - 543 Diameter of Binary Tree
+      
       - 100 Same Tree
       - 101 Symmetric Tree
       - 572 Subtree of Another Tree
       - 951 Flip Equivalent Binary Tree
       
-      - 104 Maximum Depth of Binary Tree
-      - 559 Maximum Depth of N-ary Tree
-      - 111 Minimum Depth of Binary Tree
-  
-      - 226 Invert Binary Tree
-      - 222 Count Complete Tree Nodes
+      - 257 Binary Tree Paths
+      - 113 Path Sum II
+      - 112 Path Sum
+      - 129 Sum Root to Leaf Numbers
+      - 1448 Count Good Nodes in Binary Tree
+      
 
 - Difficult Problems: 
 
-- Remaining Problems: 105, 106, 110, 112, 113, 124, 129, 236, 257, 297, 404, 543, 617, 654, 1448
+- Remaining Problems: 105, 106, 124, 236, 297, 404, 617, 654
 
 
 
